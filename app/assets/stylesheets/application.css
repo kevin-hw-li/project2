@@ -105,3 +105,9 @@ body{
   text-align: center;
   font-size: 16pt;
 }
+
+h1 {
+  font-size: 70px;
+  text-align: center;
+  text-shadow: 4px 4px 4px white;
+}
